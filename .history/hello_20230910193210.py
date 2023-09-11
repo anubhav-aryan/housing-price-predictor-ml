@@ -1,1 +1,0 @@
-msg = "Roll a Dice"
